@@ -40,7 +40,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^ *(/)\s*\S.*$\n?</string>
+			<string>^\s*(/)\s*\S.*$\n?</string>
 			<key>name</key>
 			<string>comment.line.slash.haml</string>
 		</dict>
